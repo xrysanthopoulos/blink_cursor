@@ -1,2 +1,2 @@
-#Blink cursor
+# Blink cursor
 ![Blink cursor](./blink.gif)
