@@ -1,7 +1,6 @@
 # Blink cursor
 ![Blink cursor](./blink.gif)
 
-
 ````css
 from {
     opacity: 1;
@@ -13,7 +12,7 @@ from {
 ````
 
 ````css
-.cursor {
-  animation: 1.2s blink infinite;
+.curs {
+animation: 1.2s blink infinite;
 }
 ````
