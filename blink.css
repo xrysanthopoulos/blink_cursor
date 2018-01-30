@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+@keyframes blink {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+html {
+  background-color: #f1f8e9;
+}
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40vh;
+  font-size: 90px;
+  font-family: 'Righteous', cursive;
+  color: #01579b;
+}
+.cursor {
+  width: 30px;
+  height: 80px;
+  background-color: #01579b;
+  margin-left: 0.8%;
+  animation-name: blink;
+  animation-iteration-count: infinite;
+  animation-duration: 1s;
+}
