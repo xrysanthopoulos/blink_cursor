@@ -24,7 +24,5 @@ h1 {
   height: 80px;
   background-color: #01579b;
   margin-left: 0.8%;
-  animation-name: blink;
-  animation-iteration-count: infinite;
-  animation-duration: 1s;
+  animation: 1.2s blink infinite;
 }
