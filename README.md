@@ -12,7 +12,7 @@ from {
 ````
 
 ````css
-.curs {
+.cursor {
 animation: 1.2s blink infinite;
 }
 ````
