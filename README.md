@@ -14,8 +14,6 @@ from {
 
 ````css
 .cursor {
-  animation-name: blink;
-  animation-iteration-count: infinite;
-  animation-duration: 1s;
+  animation: 1.2s blink infinite;
 }
 ````
